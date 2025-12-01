@@ -5,17 +5,6 @@ This project includes a complete frontend website, backend REST API, and an admi
 
 ---
 
-## 🚀 Live Demo
-- **Frontend (Netlify):** https://zerodhaclone-kanya.netlify.app  
-- **Backend (Render):** Add your backend link after deployment  
-
----
-
-## 📁 Project Structure
-
-
----
-
 ## ✨ Features
 
 - Modern Zerodha-style UI  
@@ -29,8 +18,4 @@ This project includes a complete frontend website, backend REST API, and an admi
 
 ---
 
-
-npm install
-
-----
 
