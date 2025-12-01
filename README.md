@@ -29,21 +29,7 @@ This project includes a complete frontend website, backend REST API, and an admi
 
 ---
 
-# 🛠️ **Installation & Setup (Combined Steps)**  
-> Follow these steps to run the entire project (frontend + backend + dashboard).
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/Kanya2630/Zerodha-Clone.git
-cd Zerodha-Clone
-
-cd frontend
-npm install
-
-cd ../backend
-npm install
-
-cd ../dashboard
 npm install
 
 ----
