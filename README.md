@@ -1,4 +1,4 @@
-# 📈 ZerodhaNext
+# 📈 Zerodha-Clone
 
 A **full-stack clone of Zerodha (India’s leading stock trading platform)** with authentication, trading dashboard, and API-driven backend.  
 This project is built for **learning, portfolio, and hands-on experience** in **MERN stack + Zerodha APIs integration**.  
