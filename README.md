@@ -46,13 +46,5 @@ This project is built for **learning, portfolio, and hands-on experience** in **
 
 ---
 
-## 📂 Project Structure  
-
-ZerodhaNext/
-│
-├── backend/       # Express backend (APIs, auth, DB models)
-├── frontend/      # React frontend (user trading interface)
-├── dashboard/     # React dashboard (admin/analytics)
-├── package.json   # Root package.json
-└── README.md      # Project documentation
+## Live Demo
 
